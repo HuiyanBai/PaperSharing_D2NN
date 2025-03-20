@@ -128,15 +128,6 @@
   *Nature Communications*, 2025.03.03 <br>
   <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://www.nature.com/articles/s41467-025-57459-5)</sub>
 
-<div style='display: none'> 
-- **** <br>
-  **, 2021.10 <br>
-  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)]()</sub>
-</div>
-    
-- **** <br>
-  **, 2021.10 <br>
-  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)]()</sub>
 - **Multi-functional broadband diffractive neural network with a single spatial light modulator** <br>
   *APL Photonics*, 2025.1.22 <br>
   <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://pubs.aip.org/aip/app/article/10/1/016115/3331973/Multi-functional-broadband-diffractive-neural)</sub>
