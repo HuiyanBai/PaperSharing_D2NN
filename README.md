@@ -128,11 +128,11 @@
   *Nature Communications*, 2025.03.03 <br>
   <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://www.nature.com/articles/s41467-025-57459-5)</sub>
 
-[//]: # (    
+<div style='display: none'> 
 - **** <br>
   **, 2021.10 <br>
   <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)]()</sub>
-)
+</div>
     
 - **** <br>
   **, 2021.10 <br>
