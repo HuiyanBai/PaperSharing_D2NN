@@ -1,7 +1,7 @@
 # PaperSharing_D2NN
 
-## :triangular_flag_on_post: 20250306 :triangular_flag_on_post:
-<!--:triangular_flag_on_post:-->
+% ## :triangular_flag_on_post: 20250306 :triangular_flag_on_post:
+% <!--:triangular_flag_on_post:-->
 
 - **Multi-functional broadband diffractive neural network with a single spatial light modulator** <br>
   *APL Photonics*, 2025.1.22 <br>
