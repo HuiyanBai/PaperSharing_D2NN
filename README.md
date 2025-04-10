@@ -1,4 +1,4 @@
-# PaperSharing_D2NN
+![image](https://github.com/user-attachments/assets/fd610d22-bafb-41f3-9399-2731121ff758)# PaperSharing_D2NN
 
 - **All-optical machine learning using diffractive deep neural networks** <br>
   *Science*, 2018.7.26 <br>
@@ -135,3 +135,11 @@
 - **All-optical image transportation through a multimode fibre using a miniaturized diffractive neural network on the distal facet** <br>
   *Nature Photonics*, 2025.2.7 <br>
   <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://www.nature.com/articles/s41566-025-01621-4)</sub>
+
+- **Pyramid-ladder diffractive neural network for visual recognition** <br>
+  *Optics & Laser Technology*, 2024.9 <br>
+  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://www.sciencedirect.com/science/article/pii/S0030399224003955)</sub>
+
+- **Training neural networks with end-to-end optical backpropagation** <br>
+  *Advanced Photonics*, 2025.2 <br>
+  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-7/issue-1/016004/Training-neural-networks-with-end-to-end-optical-backpropagation/10.1117/1.AP.7.1.016004.full)</sub>
